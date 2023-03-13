@@ -18,7 +18,7 @@ Kurumun güvenliğini sağlamak için sisteme sızma testi uygulayan kişidir. U
 
 Bilgisayarda ve yazılımsal hatalardan kaynaklı olan açıklardan faydalanmak için geliştirilmiş programlar olan exploit, sisteme izinsiz giriş yapmakla kalmayıp yetkili kullanıcı adıyla sistemi devre dışı bırakır. Exploit geliştirici olarak çalışan kişinin de bu alana hakim olması gereklidir.
 
-### 3- Zararlı Yazılım Geliştirme : 
+#### 3- Zararlı Yazılım Geliştirme : 
 
 Zararlı yazılım, bilgisayar ve mobil cihazların işlevlerini bozmak, kritik bilgileri toplamak, özel bilgisayar sistemlerine erişim sağlamak ve istenmeyen reklamları göstermek amacı ile kullanılan yazılımdır. Siber camianın en etkili silahları olarak da bilinen zararlı yazılımlar, alınan geleneksel güvenlik önlemlerini atlatarak sistemler üzerinden bilgi kaçırma, zarar verme ve istihbarat toplama amaçlı kullanılmaktadır.
   
