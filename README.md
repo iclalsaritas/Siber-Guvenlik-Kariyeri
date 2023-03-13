@@ -54,6 +54,33 @@ Bir geliştirici ekibiyle güvenli yazılım araçları ve sistemleri oluşturur
 
 Kırmızı ve Mavi Takım dışında bir de Mor Takım vardır. Mor Takım, Kırmızı Takımın saldırma hamlelerini Mavi Takımın ise savunma hamlelerini çözümler ve geliştirme üzerine çalışmalarda bulunur.
 
+### GÜNÜMÜZÜN POPÜLER SİBER GÜVENLİK DALLARI : 
+
+#### Güvenlik Mimarisi : 
+
+Donanım ve yazılım bilgisini programlama, araştırma ve politika geliştirme ile birleştirir. Güvenlik Mimarları potansiyel tehditleri tahmin eder ve bunları önlemek için sistemleri tasarlar. Bilgisayar ve ağ güvenlik sistemlerini planlar, uygular ve denetler.
+
+#### Güvenlik Mühendisi : 
+
+Şirketin güvenlik için kurulu olan sistemlerini daima işler vaziyette tutmak güvenlik mühendisinin görevidir. Özellikle yeni uygulanan güvenlik sistemlerini teyit eder ve sistemlerin tamamen güvenilir olduğundan emin oluncaya kadar çeşitli testler yapar. Satış öncesi teknik sunum, şartname ve POC yapımında çalışır. Satış sonrası kurulum, bakım ve profesyonel destek sağlar.
+
+#### Risk Analisti : 
+
+Güvenlik analisti, bir kuruluşun özel ve hassas bilgilerinin güvenliğini sağlamada hayati bir rol oynar. Şirketin güvenlik sistemleri, çözümleri ve programlarındaki kusurları belirlemek ve düzeltmek için departmanlar arası çalışır ve şirketin genel güvenlik duruşunu geliştirebilecek özel önlemler önerir.
+
+#### Güvenlik Yönetimi : 
+
+Yönetim ve bilgi güvenliği denetimi alanlarında çalışan ve şirketlerin bilgi güvenliği regülasyonlarına uyumluluğunu test eden kişidir. BT hizmetlerine kıyasla daha geniş bir yelpazeye sahip olan güvenlik yönetimine yönelik kurumsal bir stratejinin parçasını oluştururlar.
+
+#### Mavi Takım Operasyonları : 
+
+Mavi takım hem gerçek saldırganlara hem de kırmızı takıma karşı sistemi savunur. Mavi takımın saldırı anında veya en kısa sürede tepki vermesi gerektiğinden organizasyonlarda standart güvenlik ekiplerinden ayrı şekilde konumlandırılmalıdır.
+
+
+#### Kırmızı Takım Operasyonları : 
+
+Bir güvenlik testi uygulamasında, dışarıdan bir saldırganın muhtemel uygulayacağı davranışları ve teknikleri en gerçekçi şekilde taklit eder. Uygulama Penetrasyon Testine benzer ancak aynı kapsamda ve tekniklerde değildir. Kırmızı takım bir veya birden fazla hedef seçer.
+
 ## /SİBER GÜVENLİK KAYNAK TAVSİYELERİ/
 
 ###
