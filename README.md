@@ -7,10 +7,17 @@ Kırmızı Takım dediğimiz saldırgan tarafı temsil eder. Bir sisteme sızar 
 #### 1-	Sızma Testi Uzmanı :
 
 Kurumun güvenliğini sağlamak için sisteme sızma testi uygulayan kişidir. Uygulanacak testi belirlemek için müşterilerle senkronize çalışır. Sistemdeki güvenlik zayıflıklarını belirlemek için müşterinin ağını hem uzaktan hem de yerinde test eder. Olası senaryoları canlandırır. Bu çalışma sonucu ortaya çıkan sonuçtaki güvenlik risklerini tespit eder ve önlemleri alır. Müşterisine olası riskleri ve sonuçları aktarır.
+-Ağ Sızma Testi Uzmanı: Ağ penetrasyon testleri, özellikle şirketlerin güvenlik düzeylerini en yukarıda tutmak amacıyla yapılan testlerin adıdır. Bu testler sırasında ortaya çıkartılan güvenlik açıkları alınacak önlemlerle kapatılır ve bilgisayar korsanlarının ağa sızması önlenmiş olur. Ağ penetrasyon testinde uzman kişiler bilgisayar korsanı gibi hareket eder ve sistemin açıklarını bularak hacklemeye çalışırlar. Bunu başardıklarında sistem üzerinde açığı da keşfederler.
+-Web Uygulama Güvenliği : Web sitelerinin ve sunucuların çevrimiçi risklerden korunması ile ilgilidir. Saldırıları kısıtlayarak, keşfederek ve bunlara yanıt vererek hassas verileri korumayı amaçlar. Web sitesi güvenlik kontrolü,  web sitesi güvenlik yazılımı aracılığıyla olası güvenlik açıkları ve kötü amaçlı yazılımlar için URL'lerin taranmasını içerir.
+-Mobil Uygulama Güvenliği : Mobil cihazların siber güvenlik tehditlerine karşı korunmasını ifade eden mobil güvenlik, mobil cihazların iş amaçlı kullanımının artması nedeniyle günümüz şirketleri için en önemli endişelerden biridir. Uzaktan çalışanlar, güvenilmeyen mobil cihazları kullanarak kurumsal verilere ve uygulamalara erişirken, şirketler, çalışan üretkenliğini olumsuz etkilemeden verilerini koruyan, kullanımı kolay bir çözüme ihtiyaç duyuyor. Bu yüzden Mobil Uygulama Güvenliği büyük önem taşıyor.
 
 #### 2-	Exploit Geliştirme Uzmanı :
 
 Bilgisayarda ve yazılımsal hatalardan kaynaklı olan açıklardan faydalanmak için geliştirilmiş programlar olan exploit, sisteme izinsiz giriş yapmakla kalmayıp yetkili kullanıcı adıyla sistemi devre dışı bırakır. Exploit geliştirici olarak çalışan kişinin de bu alana hakim olması gereklidir.
+
+### 3- Zararlı Yazılım Geliştirme : 
+
+Zararlı yazılım, bilgisayar ve mobil cihazların işlevlerini bozmak, kritik bilgileri toplamak, özel bilgisayar sistemlerine erişim sağlamak ve istenmeyen reklamları göstermek amacı ile kullanılan yazılımdır. Siber camianın en etkili silahları olarak da bilinen zararlı yazılımlar, alınan geleneksel güvenlik önlemlerini atlatarak sistemler üzerinden bilgi kaçırma, zarar verme ve istihbarat toplama amaçlı kullanılmaktadır.
   
   
 ## -DEFANSİF-
@@ -20,6 +27,7 @@ Mavi Takım dediğimiz savunan tarafı temsil eder. Saldırganın hamlelerini bi
 #### 1-	Sistem Güvenliği Uzmanı :
 
 Şirketlerin bilgisayar ağları, telefon ve internet altyapısı, veri merkezi ve bulut ağ yapılarını kontrol eden kişiye verilen isimdir. Bu sistemlerin güvenlik politikalarını yönetmekten ve sorun ile taleplere çözüm belirlemekten sorumlu kişidir.
+-Zafiyet Yönetimi Uzmanı : Bu alan sınıflandırma, tanımlama, kategorize etme ve çözümlerin düzenli, zamanlı olup tekrar edilebilecek şekillerde uygulanmasını içerir. Zafiyet analizi sonrasında belirlenen zafiyetler belirli iş süreçleriyle yönetilerek ve azaltılarak, zafiyet yönetimi sağlanır.
 
 #### 2-	Adli Bilişim Uzmanı:
 
