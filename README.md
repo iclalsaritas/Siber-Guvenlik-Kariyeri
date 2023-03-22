@@ -462,4 +462,30 @@ https://lnkd.in/gR7-UUyS
 https://lnkd.in/gRiE_3GR
 
 
-![image](https://user-images.githubusercontent.com/20372673/224565466-1b891935-548f-4fb6-9ebe-f858b220d052.png)
+##### DeHashed - View leaked credentials https://www.dehashed.com/
+##### SecurityTrails - Extensive DNS data https://securitytrails.com/dns-trails
+##### DorkSearch - Really fast Google dorking https://dorksearch.com/
+##### ExploitDB - Archive of various exploits https://www.exploit-db.com/
+##### ZoomEye - Gather information about targets https://www.zoomeye.org/discover
+##### Pulsedive -Search for threat intelligence https://pulsedive.com/
+##### GrayHatWarfare - Search public S3 buckets https://buckets.grayhatwarfare.com/
+##### PolySwarm - Scan files and URLs for threats https://polyswarm.io/
+##### LeakIX - Search publicly indexed information https://leakix.net/
+##### DNSDumpster - Search for DNS records quickly https://dnsdumpster.com/
+##### FullHunt - Search and discovery attack surfaces https://fullhunt.io/
+##### AlienVault - Extensive threat intelligence feed https://otx.alienvault.com/
+##### ONYPHE - Collects cyber-threat intelligence data https://www.onyphe.io/
+##### Grep App - Search across a half million git repos https://grep.app/
+##### URL Scan - Free service to scan and analyse websites https://urlscan.io/
+##### Vulners - Search vulnerabilities in a large database https://vulners.com/
+##### WayBackMachine - View content from deleted websites https://web.archive.org/
+##### Shodan - Search for devices connected to the internet https://www.shodan.io/ 
+##### Netlas - Search and monitor internet connected assets https://netlas.io/
+##### Wigle - Database of wireless networks, with statistics https://www.wigle.net/
+##### PublicWWW - Marketing and affiliate marketing research https://publicwww.com/
+##### Binary Edge - Scans the internet for threat intelligence https://www.binaryedge.io/
+##### GreyNoise - Search for devices connected to the internet https://www.greynoise.io/
+##### Hunter - Search for email adresses belonging to a website https://hunter.io/
+##### Censys - Assessing attack surface for internet connected devices https://censys.io/
+##### IntelligenceX - Search Tor, I2P, data leaks, domains and emails https://intelx.io/
+##### SearchCode - Search 75 billion lines of code from 40 million projects https://searchcode.com/
