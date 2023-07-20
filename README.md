@@ -83,9 +83,6 @@ Bir güvenlik testi uygulamasında, dışarıdan bir saldırganın muhtemel uygu
 
 ## /SİBER GÜVENLİK KAYNAK TAVSİYELERİ/
 
-###
-LuNiZz Sıkça Sorulan Sorular Sayfası:
-https://github.com/LuNiZz/siber-guvenlik-sss
 
 
 ### Youtube
@@ -310,79 +307,6 @@ http://keepnote.org/
 https://lnkd.in/eMSiEpeZ
 🌟 How to write a Penetration Testing Report by HackerSploit
 https://lnkd.in/ekSu5vAp
-
-👉 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻
-
-🌟 Blackstone project by micro-joan
-https://lnkd.in/eBSy58Ur
-🌟 Pentext by Radically Open Security
-https://lnkd.in/eNPhHHdx
-
-👉 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 𝗼𝗳 𝗿𝗲𝗽𝗼𝗿𝘁𝘀
-
-🌟 A list of public pentest reports by juliocesarfort
-https://lnkd.in/ebeJwVXQ
-🌟 A list of bug bounty writeup on Pentester Land
-https://lnkd.in/e4G9xB9A
-
-1- Threat Hunting: https://lnkd.in/eFggbTpR
-
-2- Dark Web Operations: https://lnkd.in/ehESrWjn
-
-3- Vulnerability Management: https://lnkd.in/eVapYXmJ
-
-4- Digital Forensics: https://lnkd.in/eiqhh3G5
-
-5- Network Analysis: https://lnkd.in/eXf-MxpU
-
-6- Open-Source Intelligence: https://lnkd.in/egxEDEZe
-
-𝗪𝗵𝗮𝘁 𝗶𝘀 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻?
-
-🌟 Cybersecurity 101 - What is Privilege escalation on CrowdStrike https://lnkd.in/e4diwQrf
-
-🌟 Privilege Escalation Attack and defend explained on BeyondTrust
-https://lnkd.in/enQ-AMhB
-
-👉 𝗪𝗶𝗻𝗱𝗼𝘄𝘀 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻
-
-🌟 My Pentips on Windows Privilege escalation on CSbyGB - Pentips
-https://lnkd.in/eXgR_Eua
-
-🌟 Windows Privilege Escalation on PayloadsAllTheThings
-https://lnkd.in/e7rGg5MF
-
-🌟 Windows Privesc guide on absolomb’s security blog
-https://lnkd.in/eBfktNes
-
-🌟 Privilege Escalation Windows on sushant747’s gitbook
-https://lnkd.in/egU96ktp
-
-🌟 Windows Local Privilege Escalation checklist on HackTricks
-https://lnkd.in/eJqFJy8n
-
-👉 𝗟𝗶𝗻𝘂𝘅 𝗣𝗿𝗶𝘃𝗶𝗹𝗲𝗴𝗲 𝗘𝘀𝗰𝗮𝗹𝗮𝘁𝗶𝗼𝗻
-
-🌟 My Pentips on Linux Privilege Escalation on CSbyGB - Pentips
-https://lnkd.in/ekx-xdfm
-
-🌟 Linux Privilege Escalation on PayloadsAllTheThings
-https://lnkd.in/ePmZSw6t
-
-🌟 Basic Linux Privilege Escalation on g0tm1lk’s blog
-https://lnkd.in/e7dCUQXM
-
-🌟 Guide Linux Privilege Escalation on Payatu
-https://lnkd.in/eMD3JRbE
-
-🌟 Linux Privilege Escalation on shushant747’s gitbook
-https://lnkd.in/eh-gV2km
-
-🌟 A curated list of Unix Binaries to bypass local security restrictions by GTFOBins
-https://lnkd.in/eucjKtCP
-
-🌟 Linux Privilege Escalation Checklist on HackTricks
-https://lnkd.in/ef_wgGex
 
 
 
